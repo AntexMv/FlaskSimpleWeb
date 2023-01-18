@@ -1,0 +1,191 @@
+[33mcommit d0c845cc36aa516c65dbe30bdc55a20f675eadb0[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: AntexMv <antex_mv@ukr.net>
+Date:   Wed Jan 18 12:30:37 2023 +0400
+
+    Refactoring
+
+[33mcommit 51f6aa75aa4ccd16f0f9a4f2116269aa24059640[m
+Author: AntexMv <antex_mv@ukr.net>
+Date:   Wed Jan 18 10:06:51 2023 +0400
+
+    Delated file from commit
+
+[33mcommit 7e62f0a34ef7c396b5f66eed264fba66650b201a[m
+Author: AntexMv <antex_mv@ukr.net>
+Date:   Wed Jan 18 09:52:33 2023 +0400
+
+    New file
+
+[33mcommit 998119a776a73df94deaa1bc487120917628929f[m
+Author: AntexMv <antex_mv@ukr.net>
+Date:   Wed Jan 18 09:44:43 2023 +0400
+
+    Aggregated commit command
+
+[33mcommit a548a2ee49c3278f1fe5fcaa06ae2852b42064be[m
+Author: AntexMv <antex_mv@ukr.net>
+Date:   Wed Jan 18 09:39:12 2023 +0400
+
+    Refactor
+
+[33mcommit a25f66b5d98e9af7f16f4b09bc1a54a3ff89d065[m
+Author: AntexMv <antex_mv@ukr.net>
+Date:   Wed Jan 18 09:25:19 2023 +0400
+
+    Commit on 18/01/2022
+
+[33mcommit edff31b60b5940e1138cd7456a14db7dc7cf46ef[m
+Author: AntexMv <antex_mv@ukr.net>
+Date:   Tue Jan 17 16:24:59 2023 +0400
+
+    new intern
+
+[33mcommit ac72adb348b24df8a5e2f7f5d7b61d87e2eb0a21[m
+Author: AntexMv <antex_mv@ukr.net>
+Date:   Tue Jan 17 16:22:53 2023 +0400
+
+    Interm
+
+[33mcommit 2bfc4e927ed8d360f21c4637066d84f2c7f066d0[m
+Author: AntexMv <antex_mv@ukr.net>
+Date:   Tue Jan 17 16:18:52 2023 +0400
+
+    Roll back response-3.json
+
+[33mcommit 1de2b04271719325f39d71034f12db22c978c828[m
+Author: AntexMv <antex_mv@ukr.net>
+Date:   Tue Jan 17 16:16:58 2023 +0400
+
+    Commit responce-3.json and response-4.json
+
+[33mcommit 7a9aba5b57d80a913aaab8f271c39e78998f09b2[m
+Author: AntexMv <antex_mv@ukr.net>
+Date:   Tue Jan 17 16:09:14 2023 +0400
+
+    Commit response-4 only
+
+[33mcommit 9381f781d925f92cecdb5d1660c6b5fc25bda9eb[m
+Author: AntexMv <antex_mv@ukr.net>
+Date:   Tue Jan 17 15:54:03 2023 +0400
+
+    Commit response-3 and response-4
+
+[33mcommit 58706d5c424006194eb8d5b4b9e6a2347b892ede[m
+Author: AntexMv <antex_mv@ukr.net>
+Date:   Tue Jan 17 15:53:13 2023 +0400
+
+    Commit response-1 and response-2
+
+[33mcommit f3832ecdc8420b7aa8081d0627110510d0a4cded[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Tue Jan 17 10:49:46 2023 +0400
+
+    Version 1.7.1
+
+[33mcommit 322516920e7c2857ce8d03b073676c0bb8ffbd09[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Tue Jan 17 10:34:39 2023 +0400
+
+    Version 1.7.0
+
+[33mcommit d5a04ace313ddb0da0ce17d601db72806f4af1f1[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Tue Jan 17 10:20:32 2023 +0400
+
+    Version 1.6.9
+
+[33mcommit ed648cff56edf900a21fac8030c9a0196e8c4663[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Tue Jan 17 09:44:32 2023 +0400
+
+    Version 1.6.8
+
+[33mcommit 0d163f795507f8f16fc78dd54a060079bd2c243a[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Tue Jan 17 09:41:29 2023 +0400
+
+    Version 1.6.7
+
+[33mcommit 190aac84c34351c120f9e6461f0c26ef66257a0f[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Tue Jan 17 09:30:22 2023 +0400
+
+    Version 1.6.6
+
+[33mcommit 4a9165cd7fd656ab4c50ddb08c56744d3a727c66[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Tue Jan 17 09:21:38 2023 +0400
+
+    Version 1.6.5
+
+[33mcommit ab3b85923fbe918e50df051a23271bae87466760[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Tue Jan 17 09:06:40 2023 +0400
+
+    Version 1.6.4
+
+[33mcommit a834df421882e270ded9564771846df32153ac1c[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Tue Jan 17 08:51:37 2023 +0400
+
+    Version 1.6.3
+
+[33mcommit a66496664c9b149b0418df7f1daf09464a7b5c02[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Tue Jan 17 07:29:07 2023 +0400
+
+    Version 1.6.1
+
+[33mcommit 7c4428c8acab9ab0594f11ab313a74691db4b2c8[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Mon Jan 16 15:10:56 2023 +0400
+
+    Version 1.6
+
+[33mcommit 1c2833bb48aea719ed07f6f06f438a6d029ba4b7[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Mon Jan 16 13:44:12 2023 +0400
+
+    Version 1.5
+
+[33mcommit 0567f803683dd8a12f7ed5f5e63f41f7b808f57f[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Mon Jan 16 13:39:23 2023 +0400
+
+    Version 1.4
+
+[33mcommit cc83e6e90533cd177efa949e4e549a6ae3944e19[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Mon Jan 16 08:48:24 2023 +0400
+
+    version 1.3
+
+[33mcommit f2281823ec4816b8a52b5afc04cbec1d1025dc03[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Fri Jan 13 12:02:46 2023 +0400
+
+    v1.2 with volume
+
+[33mcommit 9cf6ec32223c5af0688824604a237d3431aab565[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Tue Jan 10 14:03:32 2023 +0400
+
+    V1.1 introdused
+
+[33mcommit caf7df40b528a5fe87d91910dab728d5555769b6[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Tue Jan 10 13:02:45 2023 +0400
+
+    Some response.json modification
+
+[33mcommit 5f695da5e93e05dd9c29079dbf7d7a15f8c34cfe[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Mon Jan 9 14:55:03 2023 +0400
+
+    First modification response.json
+
+[33mcommit 601a198b069d614064d007f639459c71cef204b3[m
+Author: root <root@VM15-HQ.psd.rak.vs>
+Date:   Mon Jan 9 14:44:32 2023 +0400
+
+    Starting point. Initial Flask Site
